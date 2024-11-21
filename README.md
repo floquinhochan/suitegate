@@ -282,7 +282,7 @@
             <h2>Galeria de Gatos</h2>
             <div class="products">
                 <div class="card">
-                    <img src="https://cdn.discordapp.com/attachments/762020889767182356/1308574937690275870/image.png?ex=673e70e1&is=673d1f61&hm=6fb2e49f74a53d5bbf4c78d0dc049e4cc9a93b0d42ec41b2e912148dd43657fe&" alt="Gato 1">
+                    <img src="https://cdn.discordapp.com/attachments/762020889767182356/1308574937690275870/image.png?ex=673fc261&is=673e70e1&hm=5d4dc2ea905476dabf5ccceda14fe72245684d113ea2f8cdd8a97792c1389f32&" alt="Gato 1">
                     <h3>Magali</h3>
                 </div>
                 <div class="card">
